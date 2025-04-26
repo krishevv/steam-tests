@@ -17,14 +17,14 @@
 ##  Установка и запуск 
 
  
-2. Установите зависимости:​
+1. Установите зависимости:​
 
 
 ```bash
 pip install -r requirements.txt
 ```
  
-4. Запустите тесты:​[GitHub](https://github.com/riscv-software-src/riscv-tests?utm_source=chatgpt.com) 
+2. Запустите тесты:​
 
 
 ```bash
